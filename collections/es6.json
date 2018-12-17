@@ -1,0 +1,34 @@
+{
+    "version": "0.1.0",
+    "title": "JavaScript 资源集合",
+    "data": {
+        "js-base-tutorial": [
+            {
+                "title": "Javascript 基础教程",
+                "link": "http://wangdoc.com/javascript/",
+                "info": "本教程全面介绍 JavaScript 核心语法，从最简单的讲起，循序渐进、由浅入深，力求清晰易懂。所有章节都带有大量的代码实例，便于理解和模仿，可以用到实际项目中，即学即用。",
+                "info1": "本教程适合初学者当作 JavaScript 语言的入门教程，也适合当作日常使用的参考手册。"
+            }
+        ],
+        "es6-system-tutorial":[
+            {
+                "title": "阮一峰：ECMAScript 6 入门",
+                "link": "http://es6.ruanyifeng.com/",
+                "info": "阮一峰老师的书籍。非常推荐的ES6教程，分门别类的介绍，各个章节很全面，也很实用。案列也是简洁易懂的"
+            }
+        ],
+        "js-style-guide":[
+            {
+                "title": "Airbnb: JavaScript 风格规范",
+                "link": "https://github.com/airbnb/javascript",
+                "info": "这是 Airbnb 在 GitHub 上总结的 JavaScript 风格规范，已有近8万的 Star（2018-11-11），得到很多开发者的认可，已成为比较盛行的代码风格规范指南。",
+                "info1": "阮一峰老师在教程里也有基于 Airbnb 规范的总结，是简约版本，但都是比较常用的点。参考链接： http://es6.ruanyifeng.com/#docs/style"
+            },{
+                "title": "ECMAScript® 2015 Language Specification 规格文件",
+                "link": "http://www.ecma-international.org/ecma-262/6.0/",
+                "info": "规格文件是计算机语言的官方标准，详细描述语法规则和实现方法。一般来说，没有必要阅读规格，除非你要写编译器。因为规格写得非常抽象和精炼，又缺乏实例，不容易理解，而且对于解决实际的应用问题，帮助不大。但是，如果你遇到疑难的语法问题，实在找不到答案，这时可以去查看规格文件，了解语言标准是怎么说的。规格是解决问题的“最后一招”。"
+            }
+        ]
+    }
+}
+
